@@ -13,7 +13,7 @@ let g:colors_name = 'nighted'
 
 " General colors
 hi Normal       ctermfg=251  ctermbg=234  cterm=none guifg=#c6c6c6 guibg=#1c1c1c gui=none
-hi Visual       ctermfg=102  ctermbg=232  cterm=none guifg=#868686 guibg=#121212 gui=none
+hi Visual       ctermfg=232  ctermbg=102  cterm=none guifg=#121212 guibg=#868686 gui=none
 hi Search       ctermfg=234  ctermbg=75   cterm=none guifg=#1c1c1c guibg=#5fafff gui=none
 hi IncSearch    ctermfg=234  ctermbg=61   cterm=none guifg=#1c1c1c guibg=#5f5f5f gui=none
 hi Folded       ctermfg=147  ctermbg=232  cterm=none guifg=#afafff guibg=#121212 gui=none
